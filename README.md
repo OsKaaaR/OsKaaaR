@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://twitter.com/b2ssl1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="b2ssl1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/basselsayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="basselsayed" height="30" width="40" /></a>
-<a href="https://instagram.com/b2ssl_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="b2ssl_" height="30" width="40" /></a>
 <a href="https://medium.com/@0skaar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@0skaar" height="30" width="40" /></a>
 <a href="/https://medium.com/@0skaar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/@0skaar" height="30" width="40" /></a>
 </p>
