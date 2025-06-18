@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bassel</h1>
-<h3 align="center">A passionate Cyber Security from Egypt</h3>
+<h3 align="center">A passionate Cyber Security Student from Egypt</h3>
 
 <p align="left"> <a href="https://twitter.com/b2ssl1" target="blank"><img src="https://img.shields.io/twitter/follow/b2ssl1?logo=twitter&style=for-the-badge" alt="b2ssl1" /></a> </p>
 
